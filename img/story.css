@@ -1,0 +1,39 @@
+body{
+
+	margin: 0;
+	font-family: 'Helvetica', 'Arial';
+
+}
+
+header{
+	background-color: #19A0F3;
+	text-align: center;
+	padding: 20px;
+}
+
+header img{
+
+	border-radius: 180px;
+	width: 300px;
+	border: 20px solid white;
+}
+
+h1{color: white;
+	font-family: font-family: 'Noto Sans Display';
+    font-size: 50px;
+
+}
+
+
+main{
+	margin: 0; padding: 20px; text-align: center;
+	max-width: 1500px;
+}
+
+main img{max-width: 100%;}
+
+
+
+
+
+
