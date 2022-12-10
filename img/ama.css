@@ -9,13 +9,19 @@ line-height: 30px;}
 	padding: 10px 0;
 	}
 
-		header img{border-radius: 200px;
-					width: 300px;
+		header img{
+					border-radius: 200px;
 					border: 10px solid #FF0774;
+					width: 300px;
+					
+
+
 					
 					
 
 				}
+
+				
 
 		h1{font-family: 'Grand Hotel';
 		color: #491FA4;
